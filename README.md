@@ -1,1 +1,1 @@
-# InvestmentApplication
+I developed the Investment Application to provide users with a practical tool for managing their financial investments. This project showcases my skills in designing intuitive user interfaces and implementing core functionalities to track and analyze investment data effectively. It combines my technical expertise with a focus on usability to deliver a solution that can assist users in making informed financial decisions.
